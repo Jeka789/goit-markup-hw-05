@@ -185,6 +185,8 @@ input::placeholder {
     fill: #fff;
 }
 
+/* ----- NAV ----- */
+
 .nav-list {
     display: flex;
     align-items: center;
@@ -246,6 +248,8 @@ input::placeholder {
     color: #404bbf;
 }
 
+/* ----- SECTION 1 ----- */
+
 .hero-container {
     display: flex;
     align-items: center;
@@ -297,6 +301,8 @@ input::placeholder {
     background-color: #404bbf;
 }
 
+/* ----- SECTION 2 ----- */
+
 .visually-hidden {
     position: absolute;
     clip: rect(0 0 0 0);
@@ -345,6 +351,8 @@ input::placeholder {
 .solutions-icons {
     margin: 24px 100px;
 }
+
+/* ----- SECTION 3 ----- */
 
 .sect-team {
     background-color: #f4f4fd;
@@ -421,6 +429,8 @@ input::placeholder {
     margin-bottom: 8px;
 }
 
+/* ----- SECTION 4 ----- */
+
 .sect-portfolio {
     padding: 120px 0;
 }
@@ -474,6 +484,8 @@ input::placeholder {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+/* ----- SECTION TEXTS ----- */
+
 .sect-title {
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -501,6 +513,8 @@ input::placeholder {
 .cent-r {
     text-align: center;
 }
+
+/* ----- MODAL ----- */
 
 .backdrop {
     position: fixed;
