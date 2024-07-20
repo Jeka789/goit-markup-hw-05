@@ -789,17 +789,13 @@ input::placeholder {
     line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
-
-    display: flex;
-    align-items: center;
-    justify-content: flex-start;
-    flex-direction: row;
-    gap: 8px;
 }
 
 .modal-span-hiden {
     width: 16px;
     height: 16px;
+
+    margin-right: 8px;
 
     border-radius: 2px;
     border: 1px solid rgba(46, 47, 66, 0.4);
